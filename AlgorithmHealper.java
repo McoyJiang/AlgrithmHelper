@@ -6,7 +6,7 @@ import android.util.Log;
  * Created by axing on 16/12/13.
  */
 
-public class SearchHelper {
+public class AlgorithmHealper {
 
     /**************************二分查找 BEGIN*********************************/
     /**
