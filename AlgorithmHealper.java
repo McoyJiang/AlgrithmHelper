@@ -233,7 +233,7 @@ public class AlgorithmHealper {
      * @param string    需要被转化为整数的字符串
      * @return
      */
-    public static int stringToString(String string) {
+    public static int stringToInteger(String string) {
         int n = 0;
 
         for (int i = 0; i < string.length(); i++) {
